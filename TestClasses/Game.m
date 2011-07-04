@@ -44,7 +44,7 @@
 		// P.S. Loaded image is a random waterfall photo I took in Scotland.
 		// Come visit!
 		//
-		waterfall = [SXSimpleClippedImage imageWithContentsOfFile:@"waterfall.png"];
+		waterfall = [SXSimpleClippedImage imageWithContentsOfFile:@"Default.png"];
 		[self addChild:waterfall];
 		
 		[self playTween];
