@@ -11,5 +11,4 @@ SPImage on screen. I may fix that, although I'm not certain which
 behaviour I prefer yet.
 
 
-mnem
-http://noiseandheat.com/
+mnem -- http://noiseandheat.com/
